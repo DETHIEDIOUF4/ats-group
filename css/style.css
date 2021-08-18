@@ -455,7 +455,7 @@ background-position: center center;
 
 nav.main-menu {
      float: right;
-     margin-left: 23;
+     margin-left: 0;
 }
 
 ul.top_icon {
