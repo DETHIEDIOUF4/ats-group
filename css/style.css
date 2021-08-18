@@ -1658,7 +1658,7 @@ font-weight: 500;
    
 }
 #myCarousel .carousel-indicators li { margin-bottom: 40px;}
-.banner-main .carousel-item img {height: 100px; width: 100px; }
+.banner-main .carousel-item img {height: 70px; width: 70px; }
 #myCarousel a.carousel-control-prev {display: none;}
 #myCarousel a.carousel-control-next {display: none;}
 .carousel-indicators .active {background-color:#4bc714;}
