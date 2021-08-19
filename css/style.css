@@ -2190,7 +2190,7 @@ border-bottom: #3e7f21 solid 4px;
 margin-bottom: 20px;
 width: 226px;
  }
-.address img {padding-bottom: 10px; height: 30; width: 30;}
+.address img {padding-bottom: 10px; }
 
  .address p {
      color: #fff;
