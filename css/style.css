@@ -1839,7 +1839,7 @@ border-radius: 18px;
 }
 .about_img {margin-top: 25px;}
 .about_img figure {margin: 0;}
-.about_img figure img {width: 100%;border-radius: 40%;}
+.about_img figure img {width: 100%;border-radius: 30%;border-width: 4;border-color: #30880d;}
 /** end about **/
 
 
