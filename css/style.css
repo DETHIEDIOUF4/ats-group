@@ -1837,9 +1837,9 @@ border-radius: 18px;
     background: #4bc714;
     border: #4bc714 solid 1px;
 }
-.about_img {margin-top: 25px;}
+.about_img {margin-top: 25px; border-radius: 30;}
 .about_img figure {margin: 0;}
-.about_img figure img {width: 100%; border-width: 2; border-radius: 30;}
+.about_img figure img {width: 100%; border-width: 2;}
 /** end about **/
 
 
