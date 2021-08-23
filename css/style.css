@@ -1891,6 +1891,7 @@ border-radius: 18px;
 .offer .offer-bg .offer_box figure img {
     width:300px;
     height:300px;
+    border-radius: 10%;
    
 }
 .offer .offer-bg .offer_box h3 {
