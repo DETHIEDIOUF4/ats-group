@@ -437,11 +437,13 @@ a.readmore_bt {
 
 .header {
      font-family: poppins;
-     padding: 20px 0px;
+     padding: 10px 0px;
     background: #052501;
      background-repeat: no-repeat;
 background-size: 100% 100%;
 background-position: center center;
+border-bottom: 1px solid #eee;
+ margin-top: 8px;
 }
 
 .logo {
