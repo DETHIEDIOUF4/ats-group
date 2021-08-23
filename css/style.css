@@ -1896,7 +1896,6 @@ border-radius: 18px;
 .offer .offer-bg .offer_box figure {margin: 0;}
 .offer .offer-bg .offer_box figure img {
     width:100%;
-   
     border-radius: 10%;
    
 }
@@ -1912,8 +1911,7 @@ border-radius: 18px;
 .offer-c .offer_box{text-align: center; }
 .offer-c .offer_box figure {margin:0}
 .offer-c .offer_box figure img{
-     width:250px;
-    height:250px;
+     width:100%;
     border-radius: 10%; 
 
 }
