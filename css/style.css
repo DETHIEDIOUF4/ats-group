@@ -1889,8 +1889,8 @@ border-radius: 18px;
 .offer .offer-bg .offer_box {text-align: center;}
 .offer .offer-bg .offer_box figure {margin: 0;}
 .offer .offer-bg .offer_box figure img {
-    width:80%;
-    height:80%;
+    width:200px;
+    height:200px;
     border-radius: 20;
 }
 .offer .offer-bg .offer_box h3 {
