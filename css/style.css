@@ -1904,7 +1904,7 @@ border-radius: 18px;
      color: #fff;
     padding-bottom: 30px;
 }
-.offer .offer-bg .offer_box p {padding-top: 35px; font-size: 17px; line-height: 23px; color:#052501;}
+.offer .offer-bg .offer_box p {padding-top: 35px; font-size: 17px; line-height: 23px; color:white}
 
 
 .offer-c .offer_box{text-align: center; }
@@ -1915,7 +1915,7 @@ border-radius: 18px;
     border-radius: 10%; 
 
 }
-.offer-c .offer_box h3{
+.offer-bg .offer-c .offer_box h3{
      font-size: 30px;
      font-weight: 500;
      color: #052501;
