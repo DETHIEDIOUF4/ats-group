@@ -1921,6 +1921,9 @@ border-radius: 18px;
      color: #052501;
     padding-bottom: 30px;
 }
+.offer-c .offer_box p { 
+     padding-top: 35px; font-size: 17px; line-height: 23px; color:#052501;
+}
 
 
 
